@@ -296,6 +296,7 @@ header {
 footer {
 	padding-top: 50px;
   padding-bottom: 70px;
+  background-color: #fff;
 }
 footer hr {
     border-color: #AA1E21;
